@@ -21,3 +21,17 @@ int main()
   cout << "######################################################################################" << endl;
    return 0;
 }
+/*
+######################################################################################
+#                                                                                    #
+# Ways to access the Task Manager on your Windows computer:                          #
+#                                                                                    #
+#            Press the key combination Ctrl + Shift + Escape                         #
+#                                                                                    #
+#            Press the key combination Ctrl + Alt + Delete and select “Task Manager” #
+#                                                                                    #
+#            Type “Task Manager” in the Windows Start menu search                    #
+#                                                                                    #
+######################################################################################
+[Done] exited with code=0 in 1.98 seconds
+*/
